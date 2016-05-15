@@ -1,0 +1,2 @@
+[webservers]
+testserver ansible_ssh_host=playbooks ansible_ssh_user=vagrant
